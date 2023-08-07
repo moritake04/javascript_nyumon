@@ -1,0 +1,3 @@
+# JAVASCRIPT入門
+[文系大学生のためのJavaScript入門](https://zenn.dev/ojk/books/intro-to-javascript)をやりながら記録します。
+ゴリゴリの理系大学院生でしたが…
